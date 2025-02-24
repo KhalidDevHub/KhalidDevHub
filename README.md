@@ -9,7 +9,7 @@
 </h2>
 <h2 style="font-size: 20px; color: #555;">I’m a <strong style="color: #007bff;">Fullstack Developer</strong> specializing in the <strong style="color: #007bff;">MERN Stack</strong>.</h2>
 
-🎓 Electrical Power Engineer ➡️ Fullstack Developer
+🎓 Electrical and Computer Engineer ➡️ Fullstack Developer
 
 📍 Living and coding from Harar, Ethiopia 🌍
 
