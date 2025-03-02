@@ -5,7 +5,7 @@
   <br />
   <br />
 
-  <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
+  
 </h2>
 <h2 style="font-size: 20px; color: #555;">I’m a <strong style="color: #007bff;">Fullstack Developer</strong> specializing in the <strong style="color: #007bff;">MERN Stack</strong>.</h2>
 
